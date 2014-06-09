@@ -1,0 +1,4 @@
+Z:\Documents\work\project\u3d\client\Modules\output\LoginModule.dll
+Z:\Documents\work\project\u3d\client\Modules\output\LoginModule.pdb
+Z:\Documents\work\project\u3d\client\Modules\LoginModule\obj\Debug\LoginModule.dll
+Z:\Documents\work\project\u3d\client\Modules\LoginModule\obj\Debug\LoginModule.pdb
