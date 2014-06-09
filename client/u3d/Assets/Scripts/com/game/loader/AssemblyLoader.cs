@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using Game.Utils;
 
 namespace Game.Loader
 {
-    class AssemblyLoader
+    class AssemblyLoader : Singleton<AssemblyLoader>
     {
         public byte[] LoaderAssembly(string path)
         {
